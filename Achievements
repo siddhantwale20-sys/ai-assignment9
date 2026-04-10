@@ -1,0 +1,19 @@
+<section id="achievements">
+  <h2>Achievements</h2>
+  
+  <h3>Certificates</h3>
+  <p>
+    <a href="https://www.coursera.org/account/accomplishments/verify/FDZ4U3YD6ZNN" target="_blank">
+      Coursera Certificate
+    </a>
+  </p>
+
+  <h3>Events</h3>
+  <p>Participated in Coding Hackathon</p>
+
+  <h3>Projects (Academic)</h3>
+  <ul>
+    <li>AI-based Biography Casting</li>
+    <li>Biodegradable Plastic Project</li>
+  </ul>
+</section>
