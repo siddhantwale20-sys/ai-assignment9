@@ -1,0 +1,13 @@
+<section id="projects">
+  <h2>Projects</h2>
+
+  <div>
+    <h3>Biodegradable Plastic</h3>
+    <p>A project focused on creating eco-friendly plastic alternatives.</p>
+  </div>
+
+  <div>
+    <h3>AI Biography Casting</h3>
+    <p>AI-based system to suggest actors for biographical films based on features.</p>
+  </div>
+</section>
