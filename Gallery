@@ -1,0 +1,5 @@
+<section id="gallery">
+  <h2>Gallery</h2>
+  <img src="images/profile.jpg" width="200">
+  <img src="images/certificate.jpg" width="200">
+</section>
