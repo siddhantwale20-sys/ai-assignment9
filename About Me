@@ -1,0 +1,20 @@
+<section id="about">
+  <h2>About Me</h2>
+  <p>I am currently pursuing BTech in Computer Science Engineering (1st Year). I am interested in learning new technologies and improving my coding skills.</p>
+  
+  <h3>Education</h3>
+  <ul>
+    <li>BTech CSE - First Year</li>
+    <li>12th: 55%</li>
+    <li>10th: 85%</li>
+  </ul>
+
+  <h3>Interests</h3>
+  <p>Football, Cricket, Chess</p>
+
+  <h3>Career Goals</h3>
+  <p>To become a skilled coder, government officer (collector), and successful businessman.</p>
+
+  <h3>Strengths</h3>
+  <p>Intelligent, strong mindset, positive thinking, ability to avoid distractions.</p>
+</section>
